@@ -3,7 +3,7 @@
 
 ## 新闻
 
-- 2022.07.01 [2022开源操作系统学习训练营](https://learningos.github.io/rust-based-os-comp2022/)开始了！
+- 2022.07.01 [2022开源操作系统学习训练营](https://github.com/LearningOS/rust-based-os-comp2022/blob/main/scheduling.md)开始了！
 
 ## OS课程 & rCore-Tutorial v3 相关资源
 - [2022春季OS课课程与实验资源](https://github.com/LearningOS/rust-based-os-comp2022/blob/main/relatedinfo.md)
