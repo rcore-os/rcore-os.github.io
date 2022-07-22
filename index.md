@@ -3,6 +3,8 @@
 
 ## 新闻
 
+- 2022.07.21 zCore可以从D1开发板的闪存启动了，访问[哪吒引导工具](https://github.com/YdrMaster/nezha-boot-util)试用体验。
+
 - 2022.07.01 [2022开源操作系统学习训练营](https://github.com/LearningOS/rust-based-os-comp2022/blob/main/scheduling.md)开始了！
 
 ## OS课程 & rCore-Tutorial v3 相关资源
