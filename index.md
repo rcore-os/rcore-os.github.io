@@ -7,10 +7,11 @@
 
 ## OS课程 & rCore-Tutorial v3 相关资源
 - [2022春季OS课课程与实验资源](https://github.com/LearningOS/rust-based-os-comp2022/blob/main/relatedinfo.md)
+- [参考资源](./resource.md)
 
 ## zCore相关资源
 - [毕业论文](https://github.com/rcore-os/zCore/wiki/documents-of-zcore#thesis)
- 
+
 ## 开源操作系统训练营相关资源
 - [学习博客](http://rcore-os.cn/blog/)
 
